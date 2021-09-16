@@ -1,10 +1,12 @@
 # About This Work
 
-This repository includes the code and data instances used in the paper: *Castro, M.P., Cire, A.A. & Beck, J.C. A combinatorial cut-and-lift procedure with an application to 0–1 second-order conic programming. Math. Program. (2021).*
+This repository includes the code and data instances used in the paper: 
+
+*Castro, M.P., Cire, A.A. & Beck, J.C. A combinatorial cut-and-lift procedure with an application to 0–1 second-order conic programming. Math. Program. (2021).*
 
 A preliminary version of this paper can be found in [arXiv](https://arxiv.org/abs/2003.06363v2). 
 
-A final version of the paper is availabale [here](https://doi.org/10.1007/s10107-021-01699-y)
+A final version of the paper is availabale [here](https://doi.org/10.1007/s10107-021-01699-y).
  
 
 # The Code
